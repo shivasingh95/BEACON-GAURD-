@@ -43,7 +43,7 @@ The system retrieves **GPS location** and communicates with a companion **smartp
 The final prototype has been miniaturized and designed as a **wearable necklace device** for ease of use.  
 This wearable design makes it comfortable for women to carry in daily life while ensuring safety features are always accessible.
 
-![Wearable Device](images/device-necklace.jpg)
+![Wearable Device](images/device-necklace.png)
 
 
 ## Smartphone Application
