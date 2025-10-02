@@ -95,7 +95,21 @@ The **VR3 module** was trained with the following command:
 ---
 
 ## Block Diagram
-*(Attach your project block diagram here)*  
+## Block Diagram
+![Block Diagram](images/block-diagram.png)
+
+---
+
+## Screenshots & Photos
+
+### Hardware Setup
+![Hardware Setup](images/circuit.jpg)
+
+### Mobile App UI
+![Mobile App](images/app-ui.png)
+
+### Alert SMS Example
+![Alert SMS](images/sms-example.png)
 
 ---
 
