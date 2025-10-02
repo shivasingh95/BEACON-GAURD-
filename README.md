@@ -38,6 +38,15 @@ The system retrieves **GPS location** and communicates with a companion **smartp
 
 ---
 
+
+## Final Wearable Device
+
+The final prototype has been miniaturized and designed as a **wearable necklace device** for ease of use.  
+This wearable design makes it comfortable for women to carry in daily life while ensuring safety features are always accessible.
+
+![Wearable Device](images/device-necklace.jpg)
+
+
 ## Smartphone Application
 - Developed using **MIT App Inventor**  
 - Connects to ESP32 over **BLE**  
