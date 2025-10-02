@@ -38,7 +38,6 @@ The system retrieves **GPS location** and communicates with a companion **smartp
 
 ---
 
-
 ## Final Wearable Device
 
 The final prototype has been miniaturized and designed as a **wearable necklace device** for ease of use.  
