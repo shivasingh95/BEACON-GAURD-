@@ -99,7 +99,6 @@ The **VR3 module** was trained with the following command:
 ![Block Diagram](images/block-diagram.png)
 
 ---
-
 ## Screenshots & Photos
 
 ### Hardware Setup
