@@ -96,7 +96,7 @@ The **VR3 module** was trained with the following command:
 
 ## Block Diagram
 ## Block Diagram
-![Block Diagram](images/block-diagram.png)
+![Block Diagram]("C:\Users\Shiva Raghuwanshi\Downloads\block_diagram.jpg")
 
 ---
 
