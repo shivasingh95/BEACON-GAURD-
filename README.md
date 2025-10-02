@@ -96,7 +96,7 @@ The **VR3 module** was trained with the following command:
 
 ## Block Diagram
 ## Block Diagram
-![Block Diagram](images/block-diagram.png)
+![Block Diagram](images/block_diagram.png)
 
 ---
 ## Screenshots & Photos
@@ -105,10 +105,10 @@ The **VR3 module** was trained with the following command:
 ![Hardware Setup](images/circuit.jpg)
 
 ### Mobile App UI
-![Mobile App](images/app-ui.png)
+![Mobile App](images/app_ui.png)
 
 ### Alert SMS Example
-![Alert SMS](images/sms-example.png)
+![Alert SMS](images/sms_example.png)
 
 ---
 
