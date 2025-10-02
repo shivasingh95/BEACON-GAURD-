@@ -65,3 +65,59 @@ The system retrieves **GPS location** and communicates with a companion **smartp
 ## Voice Recognition (VR3 Training)
 The **VR3 module** was trained with the following command:
 
+- Group ID: **2**  
+- Command: **HELP**  
+
+---
+
+## Installation & Setup
+### Hardware Setup
+1. Connect ESP32 with VR3, GPS, and Push Button (see pinout table).  
+2. Upload firmware using **Arduino IDE**.  
+3. Power up the ESP32.  
+
+### Smartphone Setup
+1. Install the **Beacon Guard App** (MIT App Inventor build).  
+2. Pair smartphone with ESP32 via **Bluetooth Low Energy**.  
+3. Add emergency contacts inside the app.  
+4. Trigger alert → check SMS delivery with live GPS.  
+
+---
+
+## System Workflow
+1. User presses button or says “HELP”.  
+2. ESP32 detects input → sends Alert + GPS to phone via BLE.  
+3. Smartphone app:
+   - Uses phone GPS (if available) else beacon GPS.  
+   - Sends SMS with Alert Type + Location to predefined contacts.  
+4. Contact receives SMS Alert with **Google Maps link**.  
+
+---
+
+## Block Diagram
+*(Attach your project block diagram here)*  
+
+---
+
+## Future Scope
+- Integration with **LoRa / GSM module** (direct SMS without smartphone).  
+- **Cloud-based location tracking dashboard**.  
+- Support for **multiple custom voice commands**.  
+- **Wearable form-factor** (smartwatch / pendant).  
+
+---
+
+## Team Members
+- **Shiva Singh**  
+- **Suryaion Mukherjee**  
+- **Aarya Parua**  
+
+**Guide:** Dr. Soumitra Keshari Nayak  
+**Institute:** VIT Bhopal University  
+
+---
+
+## License
+This project is licensed under the **MIT License** – free to use, modify, and distribute with attribution.
+
+
